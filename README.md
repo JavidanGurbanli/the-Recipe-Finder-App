@@ -22,6 +22,7 @@ A modern recipe search app built with **Next.js 14**, **TypeScript**, and **Tail
 ### 1. Clone the repo
 
 git clone https://github.com/yourname/recipe-finder.git
+
 cd recipe-finder
 
 ### 2. Install dependencies
